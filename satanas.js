@@ -1,13 +1,12 @@
-ETEC Professor Hor·cio Augusto da Silveira
-AvaliaÁ„o de Design Digital ñ Segundo Bimestre ñ Usabilidade e Padrıes de Projeto
+ETEC Professor Hor√°cio Augusto da Silveira
+Avalia√ß√£o de Design Digital - Segundo Bimestre - Usabilidade e Padr√µes de Projeto
 
-Nome:__________________________________________________________
-
-
-
-private void btbanana_Click(object sender, EventArgs e){double BANANA;double CHOPPE; double guaran·; string guaran·; try {BANANA=Convert.ToDouble(txtBANANA.Text);guaran·=Math.Sqrt(BANANA);rguaran·=Convert.ToString(guaran·); txtResultado.Text = rguaran·;} catch(FormatException){ MessageBox.Show("FormataÁ„o Errada.");}}
+Nome:Andreas_Luiz_de_Faria
 
 
-1.	Organize o cÛdigo acima segundo o que foi explicado nas aulas de tÈcnicas de programaÁ„o afim de garantir legibilidade e sustentabilidade do cÛdigo.
+private void btnbanana_Click(object sender, EventArgs e){double BANANA;double CHOPPE; double guaran√°; string guaran√°; try {BANANA=Convert.ToDouble(txtBANANA.Text);guaran√°=Math.Sqrt(BANANA);rguaran√°=Convert.ToString(guaran√°); txtResultado.Text = rguaranÔøΩ;} catch(FormatException){ MessageBox.Show("Formata√ß√£o Errada.");}}
 
-2.	Desenhe uma classe que implemente o cÛdigo acima como um mÈtodo. 
+
+1.	Organize o c√≥digo acima segundo o que foi explicado nas aulas de t√©cnicas de programa√ß√£o afim de garantir legibilidade e sustentabilidade do c√≥digo.
+
+2.	Desenhe uma classe que implemente o c√≥digo acima como um m√©todo. 
